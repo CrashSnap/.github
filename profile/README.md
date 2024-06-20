@@ -93,7 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Felix Windriyareksa Hardyan ](https://www.linkedin.com/in/felix-windriyareksa-hardyan/) - felix.hardyan@gmail.com
 
-[Muh. Wira Ramdhani Fadhil ](www.linkedin.com/in/muhwiraramdhanifadhil) - muhwira907@gmail.com
+[Muh. Wira Ramdhani Fadhil ](https://www.linkedin.com/in/muhwiraramdhanifadhil) - muhwira907@gmail.com
 
 [Eka Yulianto](#) - EMAIL 
 
