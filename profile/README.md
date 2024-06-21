@@ -13,13 +13,15 @@
   </p>
   <br/>
   <p align="center">
-    <a href="https://github.com/CrashSnap/.github/tree/main/profile">Explore the docs</strong></a>
+  <a href="https://drive.google.com/file/d/1cgX3JGEWQa2dbjb_wxrs65xm9CgU9i_m/view?usp=drivesdk">CrashSnap APK</a>
     .
-    <a href="https://drive.google.com/drive/folders/1v6Z-2jB705UXTqojmJf4JTybuue32Kjs?usp=sharing">App Demo</a>
+  <a href="https://github.com/CrashSnap/.github/tree/main/profile">Explore the docs</a>
+    .
+  <a href="https://drive.google.com/drive/folders/1v6Z-2jB705UXTqojmJf4JTybuue32Kjs?usp=sharing">App Demo</a>
     ·
-    <a href="https://github.com/CrashSnap/machine-learning/issues">Report Bug</a>
+  <a href="https://github.com/CrashSnap/machine-learning/issues">Report Bug</a>
     ·
-    <a href="https://github.com/CrashSnap/machine-learning/issues">Request Feature</a>
+  <a href="https://github.com/CrashSnap/machine-learning/issues">Request Feature</a>
   </p>
 </p>
 
