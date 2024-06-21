@@ -85,7 +85,7 @@ Our app is open source, any contributions a highly appreciated. To contribute to
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/CrashSnap/.github/blob/main/LICENSE) for more information.
 
 
 <!-- CONTACT -->
