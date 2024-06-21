@@ -15,7 +15,7 @@
   <p align="center">
     <a href="https://github.com/CrashSnap/.github/tree/main/profile"><strong>Explore the docs</strong></a>
     .
-    <a href="">App Demo</a>
+    <a href="https://drive.google.com/file/d/1QRYPQTztQHQOGu66OAE6jdQaopjITG3M/view?usp=sharing">App Demo</a>
     ·
     <a href="https://github.com/CrashSnap/machine-learning/issues">Report Bug</a>
     ·
@@ -65,9 +65,11 @@ You can find CrashSnap's Cloud Computing repository and documentation [HERE ](#)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-<p align="center"> 
-  DEMO VIDEO
+<p align="center">
+  <img src="/profile/SS1.png" alt="App Screenshot 1" width="700dp"/>
+  <img src="/profile/SS2.png" alt="App Screenshot 2" width="700dp"/>
+  <img src="/profile/SS3.png" alt="App Screenshot 3" width="700dp"/>
+  <img src="/profile/SS4.jpg" alt="App Screenshot 4" width="170dp"/>
 </p>
 
 <!-- CONTRIBUTING -->
