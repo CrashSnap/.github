@@ -15,7 +15,7 @@
   <p align="center">
     <a href="https://github.com/CrashSnap/.github/tree/main/profile">Explore the docs</strong></a>
     .
-    <a href="https://drive.google.com/drive/folders/1CqMCr8Iwe2y8Zxz-CDBs7dDVEkOE4hUq?usp=sharing">App Demo</a>
+    <a href="https://drive.google.com/drive/folders/1v6Z-2jB705UXTqojmJf4JTybuue32Kjs?usp=sharing">App Demo</a>
     ·
     <a href="https://github.com/CrashSnap/machine-learning/issues">Report Bug</a>
     ·
