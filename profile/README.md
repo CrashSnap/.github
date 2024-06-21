@@ -4,7 +4,7 @@
     <img src="/profile/logo_long.png" width="300dp">
   </a>
 
-  <h5 align="center">Just had a crash? Take a snap!</h5>
+  <h4 align="center">Just had a crash? Take a snap!</h4>
 
   <p align="justify">
     CrashSnap is a mobile application that utilizes computer vision technology to estimate car repair costs after an accident. 
@@ -76,11 +76,11 @@ You can find CrashSnap's Cloud Computing repository and documentation [HERE ](ht
 ## Contributing
 
 Our app is open source, any contributions a highly appreciated. To contribute to our app you can follow these steps:
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork the project
+2. Create feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push it to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
 
 <!-- LICENSE -->
 ## License
@@ -94,12 +94,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/CrashSnap/.g
 
 [Muh. Wira Ramdhani Fadhil ](https://www.linkedin.com/in/muhwiraramdhanifadhil) - muhwira907@gmail.com
 
-[Eka Yulianto](#) - EMAIL 
+[Eka Yulianto](https://www.linkedin.com/in/eka-yulianto-617640222/) - ekaidcamp07@gmail.com 
 
-[Muhammad Faturihsan ](#) - EMAIL
+[Muhammad Faturihsan ](https://www.linkedin.com/in/muhammadfaturihsan/) - faturihsann@gmail.com
 
-[Muhammad Ihsan Syafiul Umam  ](#) - EMAIL
+[Muhammad Ihsan Syafiul Umam  ](https://www.linkedin.com/in/ihsan-syafiul/) - ihsansyafiul@gmail.com
 
-[Dheril Ismail Octavians  ](#) - EMAIL
+[Dheril Ismail Octavians  ](https://www.linkedin.com/in/dherilismailoctavians) - dheril.oct@gmail.com
 
-[Ahmad Shafwan Dzaky  ](#) - EMAIL
+[Ahmad Shafwan Dzaky  ](http://linkedin.com/in/AhmadShafwanDzaky) - ahmadshafwandzaky@gmail.com
