@@ -13,9 +13,9 @@
   </p>
   <br/>
   <p align="center">
-    <a href="https://github.com/CrashSnap/.github/tree/main/profile"><strong>Explore the docs</strong></a>
+    <a href="https://github.com/CrashSnap/.github/tree/main/profile">Explore the docs</strong></a>
     .
-    <a href="https://drive.google.com/file/d/1QRYPQTztQHQOGu66OAE6jdQaopjITG3M/view?usp=sharing">App Demo</a>
+    <a href="https://drive.google.com/drive/folders/1CqMCr8Iwe2y8Zxz-CDBs7dDVEkOE4hUq?usp=sharing">App Demo</a>
     ·
     <a href="https://github.com/CrashSnap/machine-learning/issues">Report Bug</a>
     ·
@@ -57,11 +57,11 @@ You can find CrashSnap's Machine Learning repository and documentation [HERE ](h
 
 <!-- MD REPO & DOCS -->
 ## Mobile Development
-You can find CrashSnap's Mobile Developement repository and documentation [HERE ](#)
+You can find CrashSnap's Mobile Developement repository and documentation [HERE ](https://github.com/CrashSnap/mobile-development)
 
 <!-- CC REPO & DOCS -->
 ## Cloud Computing
-You can find CrashSnap's Cloud Computing repository and documentation [HERE ](#)
+You can find CrashSnap's Cloud Computing repository and documentation [HERE ](https://github.com/CrashSnap/cloud-computing)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -82,13 +82,10 @@ Our app is open source, any contributions a highly appreciated. To contribute to
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/CrashSnap/.github/blob/main/LICENSE) for more information.
-
 
 <!-- CONTACT -->
 ## Contact
